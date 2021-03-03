@@ -1,0 +1,3 @@
+2021-03-02 23:30:06,570 INFO [main] [com.banking.testcases.TC_AddCustomerTest_003] BaseClass.java:72 - Opening URL
+2021-03-02 23:30:08,760 INFO [main] [com.banking.testcases.TC_AddCustomerTest_003] TC_AddCustomerTest_003.java:20 - User logged in :mngr309755
+2021-03-02 23:30:19,092 INFO [main] [com.banking.testcases.TC_AddCustomerTest_003] TC_AddCustomerTest_003.java:46 - Customer registered successfully.
